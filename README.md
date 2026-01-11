@@ -66,6 +66,5 @@ python train_model.py
 python app.py
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/96c59f4f-6b99-4bb2-b02f-8f43adc01f29" />
 
-
-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f1652252-3b69-4a65-9d6d-ca82cc37b46d" />
 
